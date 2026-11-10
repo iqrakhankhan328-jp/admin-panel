@@ -1,2 +1,8 @@
-# admin-panel
- Role-based Admin Panel with Analytics &amp; Payouts
+# Admin Panel - Marketplace
+### Features
+- User Management (Admin / Vendor / Client)
+- Commission & Payout Management
+- Dispute Handling, Analytics Dashboard
+
+### Tech
+Next.js | FastAPI | MongoDB
